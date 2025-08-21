@@ -10,17 +10,6 @@
 🎮 Exploring <b>Game Development</b> as a creative side hobby
 </p>
 
-<p align="center">
-  <a href="https://instagram.com/fachri_azka32" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://linkedin.com/in/test" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://tiktok.com/@test" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/>
-  </a>
-</p>
 
 
 
@@ -39,19 +28,23 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,cs,php,java,py,ts" />
+    <img src="https://skillicons.dev/icons?i=dart" style="margin-right: 10px;" />
+    <img src="https://skillicons.dev/icons?i=cs" style="margin-right: 10px;" />
+    <img src="https://skillicons.dev/icons?i=php" style="margin-right: 10px;" />
+    <img src="https://skillicons.dev/icons?i=java" />
   </a>
 </p>
 
 
 
 
+
 <h2 align="center">🎨 Frontend Development</h2>
+<br>
 <p align="center">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> 
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,cs,php,java,py,ts" />
+  </a>
 </p>
 
 <h2 align="center">🛠 Backend Development</h2>
