@@ -2,9 +2,9 @@
 <h3 align="center">Fullstack Developer | UI/UX Enthusiast</h3><br>
 
 <h1> 💫 About Me: </h1> <br>
-📚 Currently learning HTML, CSS, JavaScript, PHP, MySQL, Laravel, Flutter, C#, Unity
-<br><br>🎯 Focused on Web Development, Mobile Development, and Game Development<br><br>💡 Interested in UI/UX Design with Figma
-<br>
+💻 Aspiring **Fullstack Developer** specializing in Web & Mobile  <br> <br>
+🎨 **UI/UX Enthusiast** passionate about creating intuitive designs  <br> <br>
+🎮 Exploring **Game Development** as a creative side hobby  <br> <br>
 
 ## 🌐 Socials
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
@@ -27,8 +27,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
-
-(https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# Backend Development
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fachriazka07&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=fachriazka07&theme=tokyonight&hide_border=false)<br/>
