@@ -35,10 +35,22 @@
   </a>
 </p>
 
-
-
+<br>
 <br>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fachriazka07&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
+
+<br>
+<br>
+
+
+<div align="center">
+  <div class="tenor-gif-embed" data-postid="5368357" data-share-method="host" data-aspect-ratio="1" data-width="50%">
+    <a href="https://tenor.com/view/cat-computer-typing-fast-gif-5368357">Cat Computer GIF</a> from 
+    <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a>
+  </div>
+  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</div>
+
