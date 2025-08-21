@@ -1,12 +1,9 @@
-chi align="center">
+<hi align="center">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=100&color=B6F500&width=500&lines=Hi+%F0%9F%91%8B;I'm+Fachri+Azka)](https://git.io/typing-svg" />
 </a>
 </h1>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=100&color=B6F500&width=500&lines=Hi+%F0%9F%91%8B;I'm+Fachri+Azka)](https://git.io/typing-svg)
 
 </div>
 
