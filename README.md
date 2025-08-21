@@ -1,62 +1,84 @@
 <h1 align="center">Hi 👋, I'm Fachri Azka</h1>
-<h3 align="center">Fullstack Developer | UI/UX Enthusiast</h3><br>
+<h3 align="center">Fullstack Developer | UI/UX Enthusiast</h3>
 
-<h1> 💫 About Me: </h1> <br>
-💻 Aspiring Fullstack Developer specializing in Web & Mobile  <br> <br>
-🎨 UI/UX Enthusiast passionate about creating intuitive designs  <br> <br>
-🎮 Exploring Game Development as a creative side hobby  <br> <br>
-
-## 🌐 Socials
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-
-
-
-
-
-# Programming Languages
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 <br>
 
-# Frontend Development
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+<h1 align="center">💫 About Me:</h1>
+<p align="center">
+💻 Aspiring <b>Fullstack Developer</b> specializing in Web & Mobile <br><br>
+🎨 <b>UI/UX Enthusiast</b> passionate about creating intuitive designs <br><br>
+🎮 Exploring <b>Game Development</b> as a creative side hobby
+</p>
 
-# Backend Development
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<br>
 
-# Mobile App Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+<h2 align="center">🌐 Socials</h2>
+<p align="center">
+<a href="https://instagram.com/fachri_azka32" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+</a>
+</p>
 
-# Database
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+<br>
 
-# Desktop Development
-![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+<h2 align="center">💻 Programming Languages</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" /> 
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" /> 
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> 
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> 
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> 
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> 
+</p>
 
-# Game Engine
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+<h2 align="center">🎨 Frontend Development</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> 
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> 
+</p>
 
-# Software
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<h2 align="center">🛠 Backend Development</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> 
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> 
+</p>
 
+<h2 align="center">📱 Mobile App Development</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /> 
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" /> 
+</p>
 
+<h2 align="center">🗄 Database</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> 
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /> 
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fachriazka07&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2 align="center">💻 Desktop Development</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white" /> 
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" /> 
+</p>
 
+<h2 align="center">🎮 Game Engine</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" /> 
+<img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" /> 
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center">🖌 Software</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E" /> 
+<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" /> 
+<img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" /> 
+</p>
+
+<br>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fachriazka07&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
