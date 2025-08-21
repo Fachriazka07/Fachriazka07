@@ -40,14 +40,16 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,tailwind,css,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
   </a>
 </p>
 
 <h2 align="center">🛠 Backend Development</h2>
+<br>
 <p align="center">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> 
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,php" />
+  </a>
 </p>
 
 <h2 align="center">📱 Mobile App Development</h2>
