@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&size=32&pause=100&color=B6F500&width=435&lines=Hi+%F0%9F%91%8B;I'm+Fachri+Azka)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=48&pause=100&color=B6F500&width=600&lines=Hi+%F0%9F%91%8B;I'm+Fachri+Azka)](https://git.io/typing-svg)
+
+</div>
+
 <h3 align="center">Fullstack Developer | UI/UX Enthusiast</h3>
 
 <br>
