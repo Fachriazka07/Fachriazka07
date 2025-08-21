@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fachri Azka</h1>
 <h3 align="center">Fullstack Developer | UI/UX Enthusiast</h3>
-# 💫 About Me:
-📚 Currently learning HTML, CSS, JavaScript, PHP, MySQL, Laravel, Flutter, C#, Unity<br><br>🎯 Focused on Web Development, Mobile Development, and Game Development<br><br>💡 Interested in UI/UX Design with Figma
+
+💫 About Me:
+📚 Currently learning HTML, CSS, JavaScript, PHP, MySQL, Laravel, Flutter, C#, Unity
+<br><br>🎯 Focused on Web Development, Mobile Development, and Game Development<br><br>💡 Interested in UI/UX Design with Figma
 
 
 ## 🌐 Socials:
