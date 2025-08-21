@@ -14,19 +14,14 @@
 
 <h2 align="center">🌐 Socials</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/test" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="https://fb.com/test" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
-  </a>
-  <a href="https://instagram.com/fachri_azka32" target="blank">
+  <a href="https://instagram.com/fachri_azka32" target="blank" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
-  <a href="https://dribbble.com/tw1sko" target="blank">
+  <a href="https://dribbble.com/tw1sko" target="blank" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="40" width="40" />
   </a>
 </p>
+
 
 
 <br>
