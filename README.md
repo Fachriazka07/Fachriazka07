@@ -1,6 +1,6 @@
 <hi align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=100&color=B6F500&width=500&lines=Hi+%F0%9F%91%8B;I'm+Fachri+Azka)](https://git.io/typing-svg" />
+<img src="https://readme-typing-svg.herokuapp.com/?font-Righteous&size-35&center-true&vCenter-true&width=500&height-708duration-4000&lines-Hi There!++I'm+Pedro+Muniz!;" />
 </a>
 </h1>
 
