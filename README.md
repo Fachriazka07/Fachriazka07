@@ -28,7 +28,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,cs,php,java,py,ts" />
+    <img src="https://skillicons.dev/icons?i=dart,cs,php,java,py,ts,html,css,tailwind,ts,js,node,js,flutter,mysql,unity,godot,vscode,figma" />
   </a>
 </p>
 
