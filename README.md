@@ -7,7 +7,7 @@
 
 
 ## 🌐 Socials
-[**Main**](https://instagram.com/fachri_azka32) <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="20" width="20" />
+[**Main**]<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="20" width="20" />
 
 
 
