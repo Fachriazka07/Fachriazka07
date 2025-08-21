@@ -3,7 +3,7 @@
 
 <br>
 
-<h2 align="center">💫 About Me:</h2>
+<h2 align="center">💫 About Madwdawde:</h2>
 <p align="center">
 💻 Aspiring <b>Fullstack Developer</b> specializing in Web & Mobile <br><br>
 🎨 <b>UI/UX Enthusiast</b> passionate about creating intuitive designs <br><br>
