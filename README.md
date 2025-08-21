@@ -23,8 +23,11 @@
 
 <h2 align="center">💻 Programming Languages</h2>
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,wasm" />
+  </a>
 </p>
+
 
 <h2 align="center">🎨 Frontend Development</h2>
 <p align="center">
