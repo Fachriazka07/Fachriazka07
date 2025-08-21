@@ -28,10 +28,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart" style="margin-right: 50px;" />
-    <img src="https://skillicons.dev/icons?i=cs" style="margin-right: 10px;" />
-    <img src="https://skillicons.dev/icons?i=php" style="margin-right: 10px;" />
-    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=dart,cs,php,java,py,ts" />
   </a>
 </p>
 
@@ -43,7 +40,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,cs,php,java,py,ts" />
+    <img src="https://skillicons.dev/icons?i=html,css,react" />
   </a>
 </p>
 
