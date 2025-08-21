@@ -45,7 +45,3 @@
 <br>
 <br>
 
-
-![Cat Typing](https://media.tenor.com/images/…/cat-computer-typing-fast.gif)
-
-
