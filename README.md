@@ -21,13 +21,14 @@
 
 <br>
 
-<h2 style="text-align:center;">💻 Languages & Tools 🔨</h2>
+<h2 align="center">💻 Languages & Tools 🔨</h2>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dart,cs,php,java,py,html,css,tailwind,ts,js,nodejs,flutter,mysql,unity,godot,vscode,figma" />
   </a>
 </p>
+
 
 
 <br>
