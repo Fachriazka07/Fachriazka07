@@ -1,12 +1,4 @@
-<hi align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com/?font-Righteous&size-35&center-true&vCenter-true&width=500&height-708duration-4000&lines-Hi There!++I'm+Pedro+Muniz!;" />
-</a>
-</h1>
-
-
-</div>
-
+<h1 align="center">Hi 👋, I'm Fachri Azka</h1>
 <h3 align="center">Fullstack Developer | UI/UX Enthusiast</h3>
 
 <br>
