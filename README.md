@@ -7,8 +7,8 @@
 
 
 ## 🌐 Socials
-# Main account <br>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="20" width="20" />
+Main account <br>
+<h3><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="20" width="20" /></h3>
 
 
 
