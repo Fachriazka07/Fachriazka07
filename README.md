@@ -1,8 +1,9 @@
-<h1 align="center">
+<h1 style="text-align: center;">
   <a href="https://git.io/typing-svg">
-    <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=100&width=435&lines=Hi+%F0%9F%91%8B;I'm+Fachri+Azka)](https://git.io/typing-svg)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=100&width=435&lines=Hi+%F0%9F%91%8B;I'm+Fachri+Azka" alt="Typing SVG" />
   </a>
 </h1>
+
 
 <h3 align="center">Fullstack Developer | UI/UX Enthusiast</h3>
 
