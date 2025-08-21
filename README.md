@@ -9,6 +9,7 @@
 # 🌐 Socials:
 <p align="left">
 <a href="https://instagram.com/fachri_azka32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fachri_azka32" height="30" width="40" /></a>
+<h3>Fachri_azka32</h3>
 
 # 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
