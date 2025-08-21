@@ -2,9 +2,9 @@
 <h3 align="center">Fullstack Developer | UI/UX Enthusiast</h3><br>
 
 <h1> 💫 About Me: </h1> <br>
-💻 Aspiring **Fullstack Developer** specializing in Web & Mobile  <br> <br>
-🎨 **UI/UX Enthusiast** passionate about creating intuitive designs  <br> <br>
-🎮 Exploring **Game Development** as a creative side hobby  <br> <br>
+💻 Aspiring Fullstack Developer specializing in Web & Mobile  <br> <br>
+🎨 UI/UX Enthusiast passionate about creating intuitive designs  <br> <br>
+🎮 Exploring Game Development as a creative side hobby  <br> <br>
 
 ## 🌐 Socials
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
