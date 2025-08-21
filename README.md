@@ -3,7 +3,7 @@
 
 <br>
 
-<h2 align="center">💫 About Madwdawde:</h2>
+<h2 align="center">💫 About Me:</h2>
 <p align="center">
 💻 Aspiring <b>Fullstack Developer</b> specializing in Web & Mobile <br><br>
 🎨 <b>UI/UX Enthusiast</b> passionate about creating intuitive designs <br><br>
@@ -24,9 +24,11 @@
 <h2 align="center">💻 Programming Languages</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,wasm" />
+    <img src="https://skillicons.dev/icons?i=dart,cs,php,py,ts" />
   </a>
 </p>
+
+
 
 
 <h2 align="center">🎨 Frontend Development</h2>
