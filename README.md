@@ -44,9 +44,16 @@
 <br>
 
 <div align="center">
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fachriazka07&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=38&pause=100&color=B6F500&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B;I'm+Fachri+Azka)](https://git.io/typing-svg)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fachriazka07&theme=transparent&hide_border=false&layout=compact&langs_count=6&card_width=445)
 
 </div>
+
+
 
  
 
