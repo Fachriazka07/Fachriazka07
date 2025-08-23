@@ -48,7 +48,10 @@
 <br>
 
 <div align="center">
+
+---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fachriazka07&theme=transparent&hide_border=false&layout=compact&langs_count=6&card_width=445)
+
 </div>
 
 
