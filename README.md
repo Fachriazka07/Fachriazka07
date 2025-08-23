@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Fachri Azka</h1>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=38&pause=100&color=B6F500&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B;I'm+Fachri+Azka)](https://git.io/typing-svg)
+
+</div>
 <h3 align="center">Fullstack Developer | UI/UX Enthusiast</h3>
 
 <br>
