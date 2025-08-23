@@ -16,7 +16,6 @@
 
 <br>
 
-<h2 align="center">🌐 Socials</h2>
 <p align="center">
   <a href="https://instagram.com/fachri_azka32" target="blank" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
