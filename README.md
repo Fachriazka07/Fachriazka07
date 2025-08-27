@@ -12,6 +12,8 @@
 💻 Aspiring <b>Fullstack Developer</b> specializing in Web & Mobile <br><br>
 🎨 <b>UI/UX Enthusiast</b> passionate about creating intuitive designs <br><br>
 🎮 Exploring <b>Game Development</b> as a creative side hobby
+  saya ingin pertahanin streak doang 
+
 </p>
 
 <br>
